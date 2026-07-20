@@ -18,8 +18,6 @@ limit = pagination.get("limit", 0)
 offset = pagination.get("offset", 0)
 
 total_posicoes = total / limit
-# if total_posicoes % 1 != 0:
-#     total_posicoes = int(total_posicoes) + 1
 
 total_offset = math.ceil(total_posicoes)
 
