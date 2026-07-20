@@ -44,15 +44,13 @@ O arquivo `resultado_api_docker.json` será salvo com uma lista de respostas da 
 
 ## Requisitos
 
-Este projeto foi executado em **Windows**, utilizando **Python 3.14.5**.
+Este projeto foi executado em **Windows**.
 
-### 1. Instalar o Python
+## Instalar o Docker
 
-Baixe e instale o Python:
+Baixe e instale o Docker Desktop:
 
-https://www.python.org/downloads/
-
-Durante a instalação, marque a opção para adicionar o Python ao PATH.
+https://www.docker.com/products/docker-desktop/
 
 
 ## Execução com Docker
